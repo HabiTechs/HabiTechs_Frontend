@@ -1,0 +1,5 @@
+//Se realizo la investigacion de anuncios, considerando los puntos más importantes:
+//Módulo de Anuncios
+//Propósito: Comunicación oficial y unidireccional (Admin/Guardia $\rightarrow$ Residente).
+//Funcionalidad: Permite crear y visualizar avisos con soporte para texto y archivos (imágenes persistentes).
+//Permisos Clave: Admin puede crear y eliminar cualquier anuncio; Guardia solo crea y elimina los suyos.
